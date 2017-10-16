@@ -6,5 +6,5 @@ python generate_map.py
 git pull
 git add *
 git commit -m "Added new map"
-git push origin master
+git push origin gh-pages
 echo "Finish"
