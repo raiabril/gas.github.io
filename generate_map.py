@@ -9,7 +9,7 @@ SF_COORDINATES = (40.4168, -3.7038)
 # for speed purposes
 MAX_RECORDS = 10
 
-os.chdir('/Volumes/Macintosh HD/_data/gasolineras')
+os.chdir('/Volumes/MacintoshHD/_data/gasolineras')
 files = os.listdir()
 files.sort()
 files[-1]
