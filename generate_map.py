@@ -83,5 +83,5 @@ for i in range(len(Rotulo3)-1):
         location = (Lat3[i],Lon3[i])).add_to(marker_cluster3)
 
 
-os.chdir('/Volumes/Macintosh HD/_Github/gas')
+os.chdir('/Volumes/MacintoshHD/_Github/gas')
 map.save('index.html')
